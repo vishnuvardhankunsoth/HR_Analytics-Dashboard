@@ -14,6 +14,7 @@ Project Key points:
 7. Sharing Insights
 
 Project objective:
+
 ![HR ANALYTICS DASHBOARD_page-0001](https://github.com/vishnuvardhankunsoth/HR_Analytics-Dashboard-/assets/140096940/b32cb636-f089-432b-84b6-51c8059f80d1)
 Dashboard PDF: [HR ANALYTICS DASHBOARD.pdf](https://github.com/vishnuvardhankunsoth/HR_Analytics-Dashboard-/files/14002136/HR.ANALYTICS.DASHBOARD.pdf)
 
