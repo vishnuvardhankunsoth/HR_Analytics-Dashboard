@@ -4,7 +4,8 @@ Power BI Dashboard
 Project objective:
 Help an organization improve employee performance and improve employee retention (reduce attrition) by creating an HR Analytics Dashboard.
 
-Power BI: Power BI is a business Intelligence and Data Visualization tool that converts data from various data sources into interactive dashboards and analytical reports.
+Power BI: 
+Power BI is a business Intelligence and Data Visualization tool that converts data from various data sources into interactive dashboards and analytical reports.
 
 Project Key points:
 1. Import Data in Power BI
@@ -19,9 +20,9 @@ Project Key points:
 Power BI Dashboard:
 ![HR ANALYTICS DASHBOARD_page-0001](https://github.com/vishnuvardhankunsoth/HR_Analytics-Dashboard-/assets/140096940/b32cb636-f089-432b-84b6-51c8059f80d1)
 Dashboard PDF: [HR ANALYTICS DASHBOARD.pdf](https://github.com/vishnuvardhankunsoth/HR_Analytics-Dashboard-/files/14002136/HR.ANALYTICS.DASHBOARD.pdf)
-
 Source:
 Data set: 1. [HR_Analytics.csv](https://github.com/vishnuvardhankunsoth/HR_Analytics-Dashboard-/files/14002139/HR_Analytics.csv)
+
 
 My work:
 1.	Learned how to create a dashboard using Power BI that can be used for HR Analytics.
